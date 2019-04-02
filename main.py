@@ -29,6 +29,9 @@ while True:
     elif dir_choice == "BACK" and room.is_back:
         is_exit = pl.move(room, 0, 1)
 
+    if is_exit == -1:
+        break
+
     if is_exit:
         room = Map()
         pl.reposition(room)

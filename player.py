@@ -1,4 +1,5 @@
 from environment import *
+from enemy import *
 
 
 class Player:
@@ -34,7 +35,28 @@ class Player:
 
         loot = room.action(self.x, self.y)
 
-        if loot is not None and loot[0] != "EXIT":
+        if loot is not None and loot[0] != "EXIT" and loot[0] != "ENEMY":
+            for i in loot:
+                if i[0] == "Armor":
+                    del i[0]
+                    self.armor.append(i)
+                elif i[0] == "Item":
+                    del i[0]
+                    self.inventory.append(i)
+                elif i[0] == "Weapon":
+                    del i[0]
+                    self.weapons.append(i)
+        elif loot is None:
+            self.i_do_nothing()
+        elif loot[0] == "EXIT":
+            return True
+        elif loot[0] == "ENEMY":
+            if type(loot[1]) != Enemy:
+                raise Exception("Wrong 'enemy' param")
+            loot = loot[1].battle(self)
+            if loot is None:
+                print("YOU DIED")
+                return -1
             for i in loot:
                 if i[0] == "Armor":
                     del i[0]
@@ -46,9 +68,6 @@ class Player:
                     del i[0]
                     self.weapons.append(i)
 
-        if loot[0] == "EXIT":
-            return True
-
         room.move_possibilities(self.x, self.y)
         return False
 
@@ -58,6 +77,7 @@ class Player:
               "XP: {0}".format(self.xp))
         print("Armor: {0}".format(self.armor))
         print("Inventory: {0}".format(self.inventory))
+        print("Weapons: {0}".format(self.weapons))
 
     def reposition(self, room):
         if type(room) != Map:
@@ -65,3 +85,6 @@ class Player:
 
         self.x = rand.randint(0, room.width - 1)
         self.y = rand.randint(0, room.height - 1)
+
+    def i_do_nothing(self):
+        return
