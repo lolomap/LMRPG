@@ -1,17 +1,17 @@
 import random as rand
-from os import *
-import msvcrt
-import probrand
+from os import system
+from EXTRA_FILES import PARAMS, probrand, GAME_ELEMENTS
+from EXTRA_FILES.cheat_codes import ch_input
 import player
 
 
 class Enemy:
     # ***Constants***
-    MAX_HP = 145
-    MIN_HP = 30
+    MAX_HP = 50
+    MIN_HP = 20
 
-    MAX_DAMAGE = 43
-    MIN_DAMAGE = 15
+    MAX_DAMAGE = 20
+    MIN_DAMAGE = 5
 
     MAX_DISTANCE = 1.0
     MIN_DISTANCE = 0.3
@@ -20,9 +20,6 @@ class Enemy:
 
     BONUS_BOW_DAMAGE = 6
     MULCT_BOW_DAMAGE = 4
-
-    NAMES = ("SCELETON", "ZOMBIE", "WIZARD", "DRAGON", "DWORF")
-    WEAPONS = ("Knife", "Steel Axe", "Bow")
 
     MIN_DURABILITY = 2
     MAX_DURABILITY = 40
@@ -37,11 +34,11 @@ class Enemy:
 
     # ***Methods***
     def __init__(self):
-        self.name = rand.choice(self.NAMES)
+        self.name = rand.choice(GAME_ELEMENTS.ENEMY_NAMES)
         self.hp = rand.randint(self.MIN_HP, self.MAX_HP)
         self.damage = rand.randint(self.MIN_DAMAGE, self.MAX_DAMAGE)
         self.distance = rand.triangular(self.MIN_DISTANCE, self.MAX_DISTANCE)
-        self.weapon = rand.choice(self.WEAPONS)
+        self.weapon = rand.choice(GAME_ELEMENTS.WEAPON_NAMES)
         self.durability = rand.randint(self.MIN_DURABILITY, self.MAX_DURABILITY)
 
     def battle(self, pl):
@@ -52,10 +49,14 @@ class Enemy:
             system("cls")
             pl.show_hud()
             print()
-            print("You see {0} in the room. Distance to him is {1}".format(self.name, self.distance))
+            print("You see {0} in the room. Distance to him is {1}".format(self.name, round(self.distance, 1)))
             print("{0}'s HP is {1}, damage is {2}".format(self.name, self.hp, self.damage))
             print("Choose your weapon: {0}".format(pl.weapons))
-            pl_choice = input()
+            if not PARAMS.TESTING:
+                pl_choice = ch_input(pl)
+            else:
+                pl_choice = pl.weapons[0][0]
+                print("HITTING")
             for i in pl.weapons:
                 if pl_choice == i[0]:
                     if i[0] != "Bow":
@@ -68,10 +69,29 @@ class Enemy:
                         else:
                             self.hp -= i[len(i - 1)]
 
-            print("{0} give you damage in {1} points with {2}".format(self.name, self.damage, self.weapon))
-            pl.hp -= self.damage
+            armor_damage = ["BODY"]
+            if pl.armor:
+                armor_damage = rand.choice(pl.armor)
+                if armor_damage is not None:
+                    sum_damage = self.damage/2
+                    armor_damage[1] -= self.damage/2
+                else:
+                    sum_damage = self.damage
+            else:
+                sum_damage = self.damage
+            print("{0} hitted your {1} in {2} points with {3}".format(self.name, armor_damage[0],
+                                                                      sum_damage, self.weapon))
+
+            pl.hp -= sum_damage
             # print("\nPress any key to continue")
             # msvcrt.getwch() Use this when you make .exe
+
+        i = 0
+        while i < len(pl.armor):
+            if pl.armor[i][1] <= 0:
+                del pl.armor[i]
+            else:
+                i += 1
 
         if self.hp <= 0:
             is_loot = probrand.rand(yes=60, no=40)
@@ -80,8 +100,16 @@ class Enemy:
                 ss = s.copy()
                 del ss[0]
                 print("You picked up {0}".format(ss))
-                return s
+                is_extra_loot = probrand.rand(yes=30, no=70)
+                if is_extra_loot:
+                    e_s = rand.choice(GAME_ELEMENTS.ITEMS)
+                    return [s, e_s]
+                else:
+                    return [s]
 
-# TODO: Add extra loot from enemies
-# TODO: Add armor damage
+
 # TODO: Add item using
+# TODO: Balance player's and enemys' params
+# TODO: Different probability for armor damage
+# TODO: Different count of loot
+# TODO: Weapons' durability getting lower

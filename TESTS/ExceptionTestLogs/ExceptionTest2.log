@@ -1,0 +1,2970 @@
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999]]
+ITEM	CHEST	
+ITEM	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+You see table at middle of room
+There ['Posion', 'Small Heal', 20] on the table
+Do you want to pick it up?
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999]]
+EMPTY	CHEST	
+ITEM	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+You see table at middle of room
+There ['Knife', 13, 7] on the table
+Do you want to pick it up?
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+FORWARD
+
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Knife', 13, 7]]
+EMPTY	CHEST	
+EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+
+
+PASSED TESTS: 150
+FAILED TESTS: 0
+
+

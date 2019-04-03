@@ -1,7 +1,9 @@
-import numpy as np
 from copy import *
+import numpy as np
 
 from enemy import *
+from EXTRA_FILES import GAME_ELEMENTS
+
 
 class Map:
     # ***Constants***
@@ -14,13 +16,6 @@ class Map:
     MIN_ROOMS = 4
 
     ROOMS = ("EMPTY", "CHEST", "ITEM", "ENEMY", "BONUS CHEST", "EXIT")
-    ITEMS = ([  # Armor
-                 "Armor", "Helmet", 12], ["Armor", "Chain Mail", 30],
-                # Weapons
-                ["Weapon", "Knife", 13, 7], ["Weapon", "Steel Axe", 24, 15], ["Weapon", "Wooden Stick", 3, 2],
-                ["Weapon", "Bow", 20, 13],
-                # Items
-                ["Item", "Poision", "Large Heal", 40], ["Item", "Posion", "Small Heal", 20])
 
     # ***Variables***
     width = 0
@@ -38,34 +33,43 @@ class Map:
         self.width = rand.randint(self.MIN_WIDTH, self.MAX_WIDTH)
         self.height = rand.randint(self.MIN_HEIGHT, self.MAX_HEIGHT)
 
-        self.data.resize(self.height, self.width)
+        self.data.resize(self.height, self.width, refcheck=False)
 
         for i in range(self.height):
             for j in range(self.width):
                 self.data[i][j] = rand.choice(self.ROOMS)
 
-    def action(self, x, y):
+    def action(self, x, y, pl):
+        if type(pl) != player.Player:
+            raise Exception("Wrong 'pl' param")
         print()
 
         room_type = self.data[y][x]
         if room_type == "EMPTY":
             print("This room is empty. You haven't reason to stay here")
         elif room_type == "ITEM":
-            found_item = rand.choice(self.ITEMS)
+            found_item = rand.choice((rand.choice(GAME_ELEMENTS.ITEMS), rand.choice(GAME_ELEMENTS.ARMOR), rand.choice(
+                GAME_ELEMENTS.WEAPON)))
             output_item = copy(found_item)
             del output_item[0]
             print("You see table at middle of room\n"
                   "There {0} on the table\n"
                   "Do you want to pick it up?".format(output_item))
-            pl_choice = input()
-            pl_choice = pl_choice.upper()
+            if not PARAMS.TESTING:
+                pl_choice = ch_input(pl)
+                pl_choice = pl_choice.upper()
+            else:
+                pl_choice = "YES"
             if pl_choice == "YES":
                 self.data[y][x] = "EMPTY"
                 return [found_item]
         elif room_type == "EXIT":
             print("This is exit from the floor. Do you want to exit?")
-            pl_choice = input()
-            pl_choice = pl_choice.upper()
+            if not PARAMS.TESTING:
+                pl_choice = ch_input(pl)
+                pl_choice = pl_choice.upper()
+            else:
+                pl_choice = "YES"
             if pl_choice == "YES":
                 return ["EXIT"]
         elif room_type == "ENEMY":
@@ -102,5 +106,7 @@ class Map:
     def show_map(self):
         for i in range(self.height):
             for j in range(self.width):
-                print(self.data[i][j], end=' ')
+                print(self.data[i][j], end='\t')
             print()
+
+# TODO: limit for some rooms and locked rooms

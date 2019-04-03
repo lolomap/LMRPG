@@ -33,7 +33,7 @@ class Player:
         else:
             raise Exception("Cannot move into the wall")
 
-        loot = room.action(self.x, self.y)
+        loot = room.action(self.x, self.y, self)
 
         if loot is not None and loot[0] != "EXIT" and loot[0] != "ENEMY":
             for i in loot:

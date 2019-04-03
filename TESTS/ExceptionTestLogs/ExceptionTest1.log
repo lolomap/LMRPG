@@ -1,0 +1,3227 @@
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	ITEM	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 4 y= 2
+Possible directions: left forward 
+FORWARD
+
+You see table at middle of room
+There ['Steel Axe', 24, 15] on the table
+Do you want to pick it up?
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 4 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 4 y= 2
+Possible directions: left forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 4 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 3 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 3 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 3 y= 1
+Possible directions: right left forward back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 2 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 2 y= 0
+Possible directions: right left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+LEFT
+
+HP: 999999999 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999999]]
+Inventory: []
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+
+You see SCELETON in the room. Distance to him is 0.9
+SCELETON's HP is 27, damage is 12
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15]]
+HITTING
+SCELETON hitted your w in 6.0 points with Knife
+You picked up ['Knife', 38, 12]
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+ENEMY	CHEST	BONUS CHEST	CHEST	BONUS CHEST	
+ITEM	EXIT	EMPTY	BONUS CHEST	EMPTY	
+ENEMY	EXIT	EXIT	EXIT	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+BONUS CHEST	EXIT	EMPTY	BONUS CHEST	
+BONUS CHEST	BONUS CHEST	ITEM	ENEMY	
+CHEST	ENEMY	ENEMY	BONUS CHEST	
+EMPTY	EXIT	EMPTY	EXIT	
+CHEST	EXIT	ENEMY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+RIGHT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+BONUS CHEST	EXIT	EMPTY	BONUS CHEST	
+BONUS CHEST	BONUS CHEST	ITEM	ENEMY	
+CHEST	ENEMY	ENEMY	BONUS CHEST	
+EMPTY	EXIT	EMPTY	EXIT	
+CHEST	EXIT	ENEMY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+You see table at middle of room
+There ['Chain Mail', 30] on the table
+Do you want to pick it up?
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+BONUS CHEST	EXIT	EMPTY	BONUS CHEST	
+BONUS CHEST	BONUS CHEST	EMPTY	ENEMY	
+CHEST	ENEMY	ENEMY	BONUS CHEST	
+EMPTY	EXIT	EMPTY	EXIT	
+CHEST	EXIT	ENEMY	EMPTY	
+x= 2 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+BONUS CHEST	EXIT	EMPTY	BONUS CHEST	
+BONUS CHEST	BONUS CHEST	EMPTY	ENEMY	
+CHEST	ENEMY	ENEMY	BONUS CHEST	
+EMPTY	EXIT	EMPTY	EXIT	
+CHEST	EXIT	ENEMY	EMPTY	
+x= 2 y= 0
+Possible directions: right left back 
+LEFT
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	ITEM	ITEM	BONUS CHEST	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+You see table at middle of room
+There ['Bow', 20, 13] on the table
+Do you want to pick it up?
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 1
+Possible directions: right left forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 0
+Possible directions: right left back 
+LEFT
+
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 1
+Possible directions: right left forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 0
+Possible directions: right left back 
+LEFT
+
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	ITEM	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+You see table at middle of room
+There [30] on the table
+Do you want to pick it up?
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+BONUS CHEST	EMPTY	EMPTY	EXIT	
+ITEM	EMPTY	ITEM	BONUS CHEST	
+x= 2 y= 0
+Possible directions: right left back 
+RIGHT
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	ITEM	ENEMY	ITEM	
+x= 3 y= 0
+Possible directions: right left back 
+BACK
+
+HP: 999999993.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 30]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+
+You see DWORF in the room. Distance to him is 0.9
+DWORF's HP is 50, damage is 13
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13]]
+HITTING
+DWORF hitted your Chain Mail in 6.5 points with Steel Axe
+You picked up ['Steel Axe', 26, 13]
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999986.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 23.5]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	ITEM	ENEMY	ITEM	
+x= 3 y= 1
+Possible directions: right left forward 
+LEFT
+
+You see table at middle of room
+There ['Knife', 13, 7] on the table
+Do you want to pick it up?
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999986.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 23.5]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 1
+Possible directions: right left forward 
+RIGHT
+
+HP: 999999986.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 23.5]]
+Inventory: [['Posion', 'Small Heal', 20]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7]]
+
+You see DRAGON in the room. Distance to him is 0.5
+DRAGON's HP is 23, damage is 13
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7]]
+HITTING
+DRAGON hitted your Chain Mail in 6.5 points with Steel Axe
+You picked up ['Steel Axe', 16, 13]
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 3 y= 1
+Possible directions: right left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 1
+Possible directions: right left forward 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 0
+Possible directions: right left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	ITEM	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 0
+Possible directions: right left back 
+RIGHT
+
+You see table at middle of room
+There [20, 13] on the table
+Do you want to pick it up?
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	EMPTY	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 3 y= 0
+Possible directions: right left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	EMPTY	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 0
+Possible directions: right left back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EXIT	BONUS CHEST	BONUS CHEST	EMPTY	EMPTY	
+ENEMY	EXIT	EMPTY	ENEMY	ITEM	
+x= 2 y= 1
+Possible directions: right left forward 
+LEFT
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+BONUS CHEST	BONUS CHEST	BONUS CHEST	ENEMY	BONUS CHEST	
+CHEST	CHEST	EXIT	BONUS CHEST	CHEST	
+ITEM	EMPTY	EMPTY	CHEST	CHEST	
+EXIT	ITEM	CHEST	CHEST	ENEMY	
+CHEST	ITEM	ITEM	BONUS CHEST	ITEM	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+You see table at middle of room
+There [13, 7] on the table
+Do you want to pick it up?
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+BONUS CHEST	BONUS CHEST	BONUS CHEST	ENEMY	BONUS CHEST	
+CHEST	CHEST	EXIT	BONUS CHEST	CHEST	
+EMPTY	EMPTY	EMPTY	CHEST	CHEST	
+EXIT	ITEM	CHEST	CHEST	ENEMY	
+CHEST	ITEM	ITEM	BONUS CHEST	ITEM	
+x= 0 y= 2
+Possible directions: right forward back 
+BACK
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+ITEM	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+ITEM	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+You see table at middle of room
+There ['Helmet', 12] on the table
+Do you want to pick it up?
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+RIGHT
+
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+RIGHT
+
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	ENEMY	EMPTY	
+EMPTY	EXIT	EMPTY	
+EMPTY	BONUS CHEST	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+FORWARD
+
+This is exit from the floor. Do you want to exit?
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+HP: 999999980.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999993.0], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+
+You see DWORF in the room. Distance to him is 0.7
+DWORF's HP is 28, damage is 7
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13]]
+HITTING
+DWORF hitted your w in 3.5 points with Steel Axe
+You picked up ['Steel Axe', 19, 7]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	ITEM	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+You see table at middle of room
+There [13, 7] on the table
+Do you want to pick it up?
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+BACK
+
+HP: 999999976.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 12]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+
+You see DWORF in the room. Distance to him is 0.5
+DWORF's HP is 38, damage is 9
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7]]
+HITTING
+DWORF hitted your Helmet in 4.5 points with Steel Axe
+You picked up ['Steel Axe', 3, 9]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+RIGHT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+RIGHT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+HP: 999999972.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999989.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+
+You see WIZARD in the room. Distance to him is 0.6
+WIZARD's HP is 36, damage is 14
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9]]
+HITTING
+WIZARD hitted your w in 7.0 points with Knife
+You picked up ['Knife', 6, 14]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999965.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999965.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+FORWARD
+
+HP: 999999965.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 7.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14]]
+
+You see SCELETON in the room. Distance to him is 0.7
+SCELETON's HP is 26, damage is 10
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14]]
+HITTING
+SCELETON hitted your Helmet in 5.0 points with Bow
+You picked up ['Bow', 8, 10]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+FORWARD
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+BACK
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+FORWARD
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+HP: 999999960.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 17.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+
+You see SCELETON in the room. Distance to him is 0.7
+SCELETON's HP is 46, damage is 12
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10]]
+HITTING
+SCELETON hitted your Chain Mail in 6.0 points with Bow
+You picked up ['Bow', 22, 12]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+FORWARD
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', 2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+
+You see DRAGON in the room. Distance to him is 0.8
+DRAGON's HP is 48, damage is 10
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+HITTING
+
+
+*******
+TEST FAILED
+UnboundLocalError ("local variable 'armor_damage' referenced before assignment",) 
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+FORWARD
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+HP: 999999954.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999982.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+
+You see ZOMBIE in the room. Distance to him is 0.6
+ZOMBIE's HP is 40, damage is 8
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12]]
+HITTING
+ZOMBIE hitted your w in 4.0 points with Bow
+You picked up ['Bow', 6, 8]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999950.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999978.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999950.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999978.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+FORWARD
+
+HP: 999999950.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999978.5], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8]]
+
+You see ZOMBIE in the room. Distance to him is 0.5
+ZOMBIE's HP is 25, damage is 9
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8]]
+HITTING
+ZOMBIE hitted your w in 4.5 points with Bow
+You picked up ['Bow', 4, 9]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999945.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999945.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+FORWARD
+
+HP: 999999945.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 11.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9]]
+
+You see SCELETON in the room. Distance to him is 0.7
+SCELETON's HP is 22, damage is 12
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9]]
+HITTING
+SCELETON hitted your Chain Mail in 6.0 points with Knife
+You picked up ['Knife', 30, 12]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+BACK
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -2.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+
+You see WIZARD in the room. Distance to him is 0.8
+WIZARD's HP is 48, damage is 20
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+HITTING
+
+
+*******
+TEST FAILED
+UnboundLocalError ("local variable 'armor_damage' referenced before assignment",) 
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 2
+Possible directions: left forward 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+FORWARD
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 0
+Possible directions: right back 
+RIGHT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+LEFT
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+BACK
+
+HP: 999999939.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 5.0], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+
+You see WIZARD in the room. Distance to him is 0.7
+WIZARD's HP is 31, damage is 7
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12]]
+HITTING
+WIZARD hitted your Chain Mail in 3.5 points with Bow
+You picked up ['Bow', 33, 7]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999936.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999936.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+RIGHT
+
+HP: 999999936.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999974.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7]]
+
+You see SCELETON in the room. Distance to him is 0.6
+SCELETON's HP is 33, damage is 9
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7]]
+HITTING
+SCELETON hitted your w in 4.5 points with Steel Axe
+You picked up ['Steel Axe', 39, 9]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999931.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999969.5], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999931.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999969.5], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999931.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999969.5], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999931.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999969.5], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 0
+Possible directions: left back 
+BACK
+
+HP: 999999931.5 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999969.5], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+
+You see SCELETON in the room. Distance to him is 0.6
+SCELETON's HP is 49, damage is 9
+Choose your weapon: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9]]
+HITTING
+SCELETON hitted your w in 4.5 points with Steel Axe
+You picked up ['Steel Axe', 6, 9]
+Possible directions: left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 2 y= 1
+Possible directions: left forward back 
+LEFT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 0
+Possible directions: right left back 
+BACK
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+BACK
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+LEFT
+
+
+Possible directions: right forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 2
+Possible directions: right forward 
+RIGHT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right left forward 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 2
+Possible directions: right left forward 
+FORWARD
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+LEFT
+
+This room is empty. You haven't reason to stay here
+
+Possible directions: right forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 0 y= 1
+Possible directions: right forward back 
+RIGHT
+
+
+Possible directions: right left forward back 
+
+
+*******
+TEST PASSED
+*******
+
+
+HP: 999999927.0 / 100	 Mana: 0 / 0	 XP: 0
+Armor: [['w', 999965.0], ['Chain Mail', 1.5], ['Helmet', -12.5]]
+Inventory: [['Posion', 'Small Heal', 20], ['Poision', 'Large Heal', 40], ['Coin', 'Gold', 10]]
+Weapons: [['exc', 999, 999], ['Steel Axe', 24, 15], ['Knife', 38, 12], ['Bow', 20, 13], ['Steel Axe', 26, 13], ['Knife', 13, 7], ['Steel Axe', 16, 13], ['Steel Axe', 19, 7], ['Steel Axe', 3, 9], ['Knife', 6, 14], ['Bow', 8, 10], ['Bow', 22, 12], ['Bow', 6, 8], ['Bow', 4, 9], ['Knife', 30, 12], ['Bow', 33, 7], ['Steel Axe', 39, 9], ['Steel Axe', 6, 9]]
+EMPTY	CHEST	EMPTY	
+EMPTY	CHEST	ENEMY	
+CHEST	EMPTY	EMPTY	
+x= 1 y= 1
+Possible directions: right left forward back 
+FORWARD
+
+
+Possible directions: right left back 
+
+
+*******
+TEST PASSED
+*******
+
+
+
+
+PASSED TESTS: 148
+FAILED TESTS: 2
+
+
