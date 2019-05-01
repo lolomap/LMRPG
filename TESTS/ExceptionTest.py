@@ -9,6 +9,7 @@ TEST_NUMBER = TEST_COUNTER.read()
 TEST_LOGGING = True
 # *****************
 
+
 if TEST_LOGGING:
     logger = LOGGER.Logger(TEST_NAME+TEST_NUMBER+".log")
 
@@ -16,9 +17,9 @@ room = Map()
 pl = Player(room)
 
 # Giving cheat params to player
-ch_input(pl, "gw_exc_999_999")
-ch_input(pl, "ga_w_999999")
-ch_input(pl, "hl_999999999")
+ch_input(pl, "gw")
+ch_input(pl, "ga")
+ch_input(pl, "hl")
 
 PASSED_TESTS_COUNT = 0
 FAILED_PASSED_TESTS_COUNT = 0
@@ -68,7 +69,9 @@ for i in range(TEST_RUN):
         print("\n\n*******\nTEST PASSED\n*******\n\n")
         PASSED_TESTS_COUNT += 1
 
-print("\n\nPASSED TESTS: {0}\nFAILED TESTS: {1}\n\n".format(PASSED_TESTS_COUNT, FAILED_PASSED_TESTS_COUNT))
+# Test results
+TEST_RESULT = "\n\nPASSED TESTS: {0}\nFAILED TESTS: {1}\n\n".format(PASSED_TESTS_COUNT, FAILED_PASSED_TESTS_COUNT)
+print(TEST_RESULT)
 
 if TEST_LOGGING:
     logger.close()
@@ -76,3 +79,5 @@ if TEST_LOGGING:
     TEST_COUNTER.seek(0)
     TEST_COUNTER.write(str(int(TEST_NUMBER)+1))
     TEST_COUNTER.close()
+
+# TODO: fix endless battle
